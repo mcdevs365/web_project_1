@@ -10,5 +10,4 @@ This website is dedicated to learning about the most popular and efficient ways 
 - CSS3
 
 _By Moises Casilla_
-
 _(Practicum by Yandex)_
